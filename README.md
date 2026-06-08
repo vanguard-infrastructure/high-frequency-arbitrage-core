@@ -15,4 +15,4 @@ The core logic for memory pool monitoring and pricing-graph calculation is publi
 ## Licensing & Enterprise Access
 For commercial deployment licenses, institutional-grade liquidity access, or fully unlocked binary execution modules, contact our core infrastructure desk.
 
-**Secure Communication Channel:** [Telegram: @Vanguard_Core_Ops] (Placeholder - update once set)
+**Secure Communication Channel:** [Telegram: @Vanguard_Core_Ops] 
